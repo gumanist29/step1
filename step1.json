@@ -1,0 +1,10 @@
+{
+	"id":"gumanist29",
+	"Name": "Rustam",
+  	"Surname": "Rahmanjanov",
+  	"Age": "22",
+  	"University": "Ala-Too International University",
+  	"Faculty": "Applied Math & Informatics",
+  	"studstatus": "seniour",
+  	"hobbies": ["making people happy", "reading books","sport"]
+}
